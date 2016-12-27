@@ -1,0 +1,22 @@
+{
+  "name": "og-angular-material-scafold",
+  "version": "1.0.0",
+  "description": "Repo for scafolding projects using Angular Material and o-glass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdpedroso/og-angular-material-scafold.git"
+  },
+  "author": "Eduardo Pedroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drdpedroso/og-angular-material-scafold/issues"
+  },
+  "homepage": "https://github.com/drdpedroso/og-angular-material-scafold#readme",
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
