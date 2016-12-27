@@ -4,7 +4,8 @@
   "description": "Repo for scafolding projects using Angular Material and o-glass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8000 -c-1 ./app"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/drdpedroso/og-angular-material-scafold#readme",
   "dependencies": {
-    "angular": "^1.6.1"
+    "angular": "^1.6.1",
+    "http-server": "^0.9.0",
+    "materialize-css": "^0.97.8"
   }
 }
